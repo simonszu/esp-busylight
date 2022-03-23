@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
 
 const char* SSID = "Devicefunk";
-const char* PSK = "freewaycola";
+const char* PSK = "xyz";
 const char* MQTT_BROKER = "192.168.10.4";
 
 WiFiClient espClient;
